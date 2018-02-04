@@ -5,8 +5,10 @@ Based on Coursera Terms and Conditions I am not allowed to upload my codes and p
 
 -[Machine Learning; Stanford University](https://github.com/nimahassanpour/COURSERA/tree/master/Machine-Learning-master)
   -Instructor: Andrew NG
+  
 -[Seris of Deep Learning courses](https://github.com/nimahassanpour/COURSERA/tree/master/Deep-Learning-Specialization-master)
   - Instroctor: Andrew NG
+  
 -[Convolutional Neural Network](https://github.com/nimahassanpour/COURSERA/tree/master/Convolutional-Neural-Networks-master)
   -Instructor: Andrew NG
 
