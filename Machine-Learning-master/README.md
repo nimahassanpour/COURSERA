@@ -1,6 +1,6 @@
 # Machine-Learning
 
-This repository contains information of the projects I did for coursera Machine Learning Course. According to the Terms and Conditions of Coursera I am not allowed to upload my codes and projects on Github, but I would be happy to help others for accomplishing assignments. Let me know if you have any question about the quizzes and projects. Bellow is a description of what I have done for this course.
+This repository contains information of the projects I did for Coursera Machine Learning Course. According to the Terms and Conditions of Coursera I am not allowed to upload my codes and projects on Github, but I would be happy to help others for accomplishing assignments. Let me know if you have any question about the quizzes and projects. Bellow is a description of what I have done for this course.
 ## Exercise 1- Linear Regression
 1.	warmUpExercise.m - Simple example function in Octave/MATLAB
 2.	plotData.m - Function to display the dataset
