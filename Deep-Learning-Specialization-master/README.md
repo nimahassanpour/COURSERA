@@ -2,7 +2,7 @@
 If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
 This is a series of courses which teaches the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach.
 
-Since I am not allowed to upload my code of projects based on Terms and Conditions of coursera, bellow is a brief description of what I have learned from this interesting course:
+Since I am not allowed to upload my code of projects based on [Terms and Conditions](https://www.coursera.org/learn/neural-networks-deep-learning/supplement/muGtL/deep-learning-honor-code) of Coursera, bellow is a brief description of what I have learned from this interesting course:
 
 ## Course 1: Neural Networks and Deep Learning
 In this course, you will learn the foundations of deep learning, which are
